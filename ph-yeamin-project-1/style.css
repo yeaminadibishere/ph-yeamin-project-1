@@ -1,53 +1,25 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@600&display=swap');
+#main-div {
 
-    background-color:blanchedalmond;
+    background-color: rgba(255, 252, 70, 0.835);
+    width : 700px;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+}
+.h1-first-line {
+
+    font-family: 'Hind Siliguri', sans-serif;;
 
 }
-#descp {
+.main-image {
 
-    background-color: pink;
-    width: 500px;
-    padding: 20px;
-    font-weight: 900;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    
-}
-#descp_1 {
-
-    background-color: black;
-    border: 10px solid black;
-    border-radius: 15px;
-    font-weight: 500;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   
-    float: left;
-    color : white
+    width: 400px;
+    border-radius: 10px;
    
 }
-#descp_2 {
+.pg {
 
-    float: right;
-    display:  none;
-}
-#name_descp {
-
-    background-color: white;
-    font-weight: bolder;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-#main_line {
-
-    font-family: 'Poppins', sans-serif;
-    font-weight: lighter;
-    color: thistle;
-    
-}
-#myIMG {
-    border-radius:  20px;
-}
-
-h1{
-
-    background-color: tomato;
-    width: 500px;
+    font-weight:400;
+    font-family:'Hind Siliguri', sans-serif;
 }
