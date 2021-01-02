@@ -1,0 +1,53 @@
+body {
+
+    background-color:blanchedalmond;
+
+}
+#descp {
+
+    background-color: pink;
+    width: 500px;
+    padding: 20px;
+    font-weight: 900;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#descp_1 {
+
+    background-color: black;
+    border: 10px solid black;
+    border-radius: 15px;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+    float: left;
+    color : white
+   
+}
+#descp_2 {
+
+    float: right;
+    display:  none;
+}
+#name_descp {
+
+    background-color: white;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#main_line {
+
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    color: thistle;
+    
+}
+#myIMG {
+    border-radius:  20px;
+}
+
+h1{
+
+    background-color: tomato;
+    width: 500px;
+}
