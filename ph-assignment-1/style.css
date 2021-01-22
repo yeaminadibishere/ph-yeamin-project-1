@@ -1,0 +1,66 @@
+/* Font Importing Section */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+
+
+
+
+
+
+
+
+
+/* Tag Section */
+body{
+    font-family:'Poppins', sans-serif; ;
+}
+
+h1{
+    font-size: 50px;
+}
+h3{
+    color: rgb(32, 31, 31);
+}
+h2{
+    font-size: 40px;
+}
+
+
+
+
+
+
+/* Id Section */
+
+
+
+
+
+
+
+
+
+/* Class Section */
+.highlight.text{
+    color: #f49560;
+}
+.half-width-01{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left:  4%;
+    margin-top: 2%;
+}
+.half-width-01 img{
+    width: 80%;
+}
+.btn-link{
+    text-decoration: none;
+    background-image: linear-gradient(#F59B60, rgb(248, 194, 45));
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
